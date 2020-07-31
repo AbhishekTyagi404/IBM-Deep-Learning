@@ -1,2 +1,2 @@
-# IBM-ML-Loan-Prediction
+# IBM-Deep Learning
 Coursera-ML-Graded-Assignment
